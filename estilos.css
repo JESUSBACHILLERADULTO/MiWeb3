@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+h1 {
+  color: brown;
+  font-size: 300%;
+  font-family: arial;
+
+}
+h2 {
+  color: blue;
+  font-size: 200%;
+  font-family: arial;
+
+}
+p {
+  color: blue;
+  text-align: justify;
+  margin-left: 3cm;
+  margin-right: 3cm;
+}
